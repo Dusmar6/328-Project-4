@@ -1,0 +1,5 @@
+Greyson Cabrera:
+Created the menu system. Created the radix sorting algorithm. Created both comparison functions. Created both decToBin() and binToDec() functions.
+
+Dustin Martin:
+Created the quicksort and partition functions
